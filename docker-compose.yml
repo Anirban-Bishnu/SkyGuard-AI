@@ -1,0 +1,19 @@
+version: '3.8'
+services:
+  postgres:
+    image: timescale/timescaledb-ha:pg15
+    environment:
+      - POSTGRES_USER=skyguard
+      - POSTGRES_PASSWORD=skyguard_pass
+      - POSTGRES_DB=skyguard
+    ports:
+      - "5432:5432"
+  redis:
+    image: redis:7-alpine
+    ports:
+      - "6379:6379"
+  emqx:
+    image: emqx/emqx:5.3.0
+    ports:
+      - "1883:1883"
+      - "8083:8083"

@@ -1,0 +1,45 @@
+{
+  "prototype_note": "Dum Dum is the real baseline. Alipore, Canning and Uluberia are synthetic neighboring profiles generated from the Dum Dum baseline for prototype demonstration. Map coordinates are approximate prototype positions, not survey coordinates.",
+  "stations": [
+    {
+      "station_id": "AWS-KOL-DUM-01",
+      "station_name": "Kolkata / Dum Dum",
+      "wmo_id": "42809",
+      "role": "REAL_BASELINE",
+      "latitude": 22.65,
+      "longitude": 88.45,
+      "map_x": 52,
+      "map_y": 18
+    },
+    {
+      "station_id": "AWS-KOL-ALP-01",
+      "station_name": "Kolkata / Alipore",
+      "wmo_id": "42807",
+      "role": "SYNTHETIC_NEIGHBOR",
+      "latitude": 22.53,
+      "longitude": 88.33,
+      "map_x": 44,
+      "map_y": 54
+    },
+    {
+      "station_id": "AWS-KOL-CAN-01",
+      "station_name": "Canning",
+      "wmo_id": "42812",
+      "role": "SYNTHETIC_NEIGHBOR",
+      "latitude": 22.31,
+      "longitude": 88.67,
+      "map_x": 69,
+      "map_y": 70
+    },
+    {
+      "station_id": "AWS-KOL-ULB-01",
+      "station_name": "Uluberia",
+      "wmo_id": "42805",
+      "role": "SYNTHETIC_NEIGHBOR",
+      "latitude": 22.47,
+      "longitude": 88.11,
+      "map_x": 25,
+      "map_y": 59
+    }
+  ]
+}
