@@ -25,7 +25,7 @@ The platform combines a React/Vite command-center frontend with a FastAPI backen
 ##  SIH 2026 Project
 
 **Hackathon:** Smart India Hackathon (SIH)  
-**Team:** **ASTRIX--** 
+**Team:** **ASTRIX-- ,**
 **Team ID :** **155429**  
 **PS ID:** **26073**  
 **Project:** SkyGuard AI  
