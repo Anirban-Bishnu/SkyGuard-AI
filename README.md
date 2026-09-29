@@ -33,6 +33,16 @@ The platform combines a React/Vite command-center frontend with a FastAPI backen
 SkyGuard AI is developed as a prototype to demonstrate an operator-focused system for environmental station monitoring and sensor anomaly management.
 
 ---
+## Tean Members
+
+- Rasel Ahammed Biswas (Team Leader)
+- Anirban Bishnu
+- Golam Yeazdani
+- Arnab Roy
+- Sudiksha Mandal
+- Sudesna Patra
+
+---
 
 ## Problem Statement
 
